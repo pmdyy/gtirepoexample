@@ -1,31 +1,32 @@
-﻿table{
-    text-align:center;
-    font-family:Tahoma;
-    width:300px;
+﻿table {
+  text-align: center;
+  font-family: Tahoma;
+  width: 300px;
 }
-.gray{
-    background-color:lightgray;
-    color:darkred;
+.gray {
+  background-color: lightgray;
+  color: darkred;
 }
-th, td {
-    border: solid 5px darkblue;
+th,
+td {
+  border: solid 5px darkblue;
 }
 li[title]:hover {
-    color: orange;
-    background-color:lightblue;
+  color: blue;
+  background-color: lightblue;
 }
-li{
-    width:50px;
+li {
+  width: 50px;
 }
-th{
-    font-variant:small-caps;
+th {
+  font-variant: small-caps;
 }
-p a{
-    font-style:italic;
-    font-size:large;
-    color:red;
+p a {
+  font-style: italic;
+  font-size: large;
+  color: red;
 }
-div::first-letter{
-    font-size:xx-large;
+div::first-letter {
+  font-size: xx-large;
 }
 /*this is a css comment*/
